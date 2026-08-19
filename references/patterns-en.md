@@ -12,7 +12,11 @@ Same three-layer logic as the Chinese list. Use this when the draft is in Englis
 
 **Meta-commentary**: This article will explore / As mentioned earlier / In conclusion / Hope this helps / Let me know if you'd like me to expand.
 
-**Vague attribution**: experts say, studies show, it is widely believed — with no source. Cite it, cut it, or own it as your own judgment.
+**Vague attribution**: experts say, studies show, it is widely believed — with no source. Cite it, cut it, or own it as your own judgment. If a number depends entirely on the missing source, cut the whole claim — don't downgrade "40% faster" to "much faster".
+
+**Speculative gap-fill**: likely grew up, it is believed that, keeps a low profile — a guess dressed as fact. State what the source shows, or cut the sentence.
+
+**Fake-candid openers**: Honestly? / Look, / Here's the thing / Let's be real — theatrical hooks standing alone before the point. Mid-sentence "honestly" is fine.
 
 ## Structures to break
 
@@ -27,6 +31,13 @@ Same three-layer logic as the Chinese list. Use this when the draft is in Englis
 | Em dash overuse | Two or more per paragraph | Periods or commas |
 | Title Case Headings | Why This Matters For Your Team | Sentence case |
 | Uniform paragraph length | Every block 3–4 lines | Vary deliberately |
+| Copula avoidance | serves as / stands as / boasts / features | is / has |
+| Synonym cycling | the parser → the component → this module | Pick the concrete term, repeat it |
+| Answering unraised objections | To be clear, this isn't about… / I'm not saying… | Cut, or state the actual claim |
+| Rejecting fake alternatives | One might be tempted to… / You might think X, but | Keep only options a reader would consider |
+| Formulaic sayings | X is the Y of Z / not a tool but a mirror | Replace with the specific claim |
+| Hyphenated-pair pileup | end-to-end, data-driven, cross-functional stacked | Keep the load-bearing one |
+| Lazy extremes | every, always, never, nobody doing vague work | Bounded, checkable statements |
 
 ## Sentence-level rules
 

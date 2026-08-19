@@ -37,18 +37,18 @@ de-ai-writing/
     └── examples.md             # 各入口前后对照，含"改过头"的反例
 ```
 
-## 合成来源
+## 参考来源
 
 | 来源项目 | 取了什么 |
 |---|---|
-| blader/humanizer、Humanizer-zh | 24+ 项痕迹分类，底层是 Wikipedia《Signs of AI writing》 |
-| stop-slop | 禁用短语表、结构性套路清单、打分后再交付（原版 /50，这里 /100 且按入口加权） |
-| ai-flavor-remover、说人话 | 中文语境补充：翻译腔、空心动词、排版指纹 |
-| nuwa-skill | 从样本蒸馏表达风格 → 入口 E |
-| writing-agent | 分阶段流水线 → 三遍改写法 |
-| De-AI-Prompt-Enhancer | 写作前置约束 → 入口 F |
-| chatgpt-comparison-detection | 检测与评分维度 → 入口 A |
-| taste-skill | 反模板化的判断标准（原项目面向前端设计，只借取向） |
+| [blader/humanizer](https://github.com/blader/humanizer)、[Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 24+ 项痕迹分类，底层是 Wikipedia《Signs of AI writing》 |
+| [stop-slop](https://github.com/hardikpandya/stop-slop) | 禁用短语表、结构性套路清单、打分后再交付（原版 /50，这里 /100 且按入口加权） |
+| [ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover)、[说人话](https://github.com/MrGeDiao/shuorenhua) | 中文语境补充：翻译腔、空心动词、排版指纹 |
+| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 从样本蒸馏表达风格 → 入口 E |
+| [writing-agent](https://github.com/dongbeixiaohuo/writing-agent) | 分阶段流水线 → 三遍改写法 |
+| [De-AI-Prompt-Enhancer](https://github.com/OUBIGFA/De-AI-Prompt-Enhancer-Writer-Booster-SKILL) | 写作前置约束 → 入口 F |
+| [chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) | 检测与评分维度 → 入口 A |
+| [taste-skill](https://github.com/Leonxlnx/taste-skill) | 反模板化的判断标准（原项目面向前端设计，只借取向） |
 
 ## 安装
 
